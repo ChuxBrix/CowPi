@@ -10,7 +10,7 @@ button = gpiozero.Button(2)
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
 GMAIL_USERNAME = 'chestercowpi@gmail.com'
-GMAIL_PASSWORD = 'CowsNeedWater2'
+GMAIL_PASSWORD = 'XXX'
 
 #email function
 class Emailer:
